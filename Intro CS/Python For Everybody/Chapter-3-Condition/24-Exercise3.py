@@ -17,6 +17,7 @@ Also Add 1.5 times the hourly rate for hours worked above 40 hours.
 # Payment with overtimebonus = pyb
 # OverTime = ovtm
 # OverTime Bonus = ovtmb
+
 sh = input('Number of Hours you worked for? \n Enter Hours: \n')
 try:
      fh = float(sh)
